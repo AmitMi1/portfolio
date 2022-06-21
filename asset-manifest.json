@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45c2e8c4.css",
+    "main.js": "/static/js/main.8f1589c5.js",
+    "static/media/Mello.png": "/static/media/Mello.ca880a434d4b6e667b9e.png",
+    "static/media/MissBooks.png": "/static/media/MissBooks.88111a1151592444904f.png",
+    "static/media/MemeGenerator.png": "/static/media/MemeGenerator.e681dd5d2e1eb4168321.png",
+    "static/media/profileImg3.jpg": "/static/media/profileImg3.92d47aae7abe370e1ed8.jpg",
+    "static/media/MineSweeper.png": "/static/media/MineSweeper.e6a3f29bd5d8b5ff3f79.png",
+    "static/media/MrPlay.png": "/static/media/MrPlay.ceeaed294cd7a62d5c4f.png",
+    "static/media/APPSUS.png": "/static/media/APPSUS.883bb90a624e5b7107c5.png",
+    "static/media/MrBitcoin.png": "/static/media/MrBitcoin.5323a07def32c5f3d7bc.png",
+    "static/media/profileImg2.png": "/static/media/profileImg2.5de2cc8c1fa51b9b60c2.png",
+    "static/media/TravelTip.png": "/static/media/TravelTip.895eeb92694f151e5692.png",
+    "static/media/Pacman.png": "/static/media/Pacman.2b55d1d953709c8116ed.png",
+    "static/media/CV.pdf": "/static/media/CV.3e723bdbba6791ea0279.pdf",
+    "index.html": "/index.html",
+    "main.45c2e8c4.css.map": "/static/css/main.45c2e8c4.css.map",
+    "main.8f1589c5.js.map": "/static/js/main.8f1589c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45c2e8c4.css",
+    "static/js/main.8f1589c5.js"
+  ]
+}
